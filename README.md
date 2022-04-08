@@ -9,7 +9,7 @@ c) Silviu Oprea and Walid Magdy. 2019. isarcasm: A dataset of intended sarcasm. 
 
 d) Debanjan Ghosh, Avijit Vajpayee, and Smaranda Muresan. 2020. A report on the 2020 sarcasm detection shared task. arXiv preprint arXiv:2005.05814.
 
-e) SemEval'22 Intended Sarcasm SubTask A for Identifying Sarcasm on English dataset: https://sites.google.com/view/semeval2022-isarcasmevalh.t53li2ejhrh8
+e) SemEval'22 Intended Sarcasm SubTask A for Identifying Sarcasm on English dataset: https://sites.google.com/view/semeval2022-isarcasmeval
 
 SarcOji has a total of 29377 text records with emojis
 
