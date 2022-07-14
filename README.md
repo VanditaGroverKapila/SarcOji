@@ -48,3 +48,19 @@ xiv) MEVader: Sentiment score of MaxEmoji using VADER
 xv) METB: Sentiment score of MaxEmoji using TextBlob
 
 xvi) ESR: Sentiment score of MaxEmoji using Emoji Sentiment Ranking
+
+
+
+You can Cite Us with:
+@inproceedings{grover-banati-2022-understanding,
+    title = "Understanding the Sarcastic Nature of Emojis with {S}arc{O}ji",
+    author = "Grover, Vandita  and
+      Banati, Hema",
+    booktitle = "Proceedings of the The Fifth International Workshop on Emoji Understanding and Applications in Social Media",
+    month = jul,
+    year = "2022",
+    address = "Seattle, Washington, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emoji-1.4",
+    pages = "29--39",
+  }
